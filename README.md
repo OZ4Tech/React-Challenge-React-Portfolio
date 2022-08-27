@@ -30,3 +30,12 @@ Please contact https://github.com/OZ4Tech with any questions
 ## Contact Information:
 -Email: [deaijaemungin@gmail.com]
 -GitHub: [https://github.com/OZ4Tech]
+
+## App Preview
+
+![Portfolio](https://user-images.githubusercontent.com/103383531/187010554-6ed74a78-862e-4814-b609-e57865d0f10e.gif)
+
+## Deployed App Link
+
+Click [HERE]() to see our deployed app.
+
