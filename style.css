@@ -1,0 +1,112 @@
+.section1 {
+    height: 450px;
+    background-color: gray;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+.section2 {
+    height: 350px;
+    background-color: #1abc9c;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.section3 {
+    height: 250px;
+    background-color: grey;
+    border-radius: 10px;
+    margin-left: 250px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.footer {
+    height: 150px;
+    background-color: black;
+    margin-left: 250px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+div {
+    font-size: large;
+    font-style: oblique;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+}
+p {
+    font-size: x-large;
+    font-style: oblique;
+}
+.sidenav {
+    font-style: normal;
+}
+
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+  }
+  
+.sidenav a {
+    color: gray;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+.sidenav a:hover {
+    background-color: hotpink;
+    color: black;
+  }
+  
+.content {
+    margin-left: 200px;
+    padding-left: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+}
+
+
+}
+    }
+.h2 {
+    justify-content: center;
+    margin-left: 600px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: gray;
+    font-size: 30px;
+    border-radius: 20px;
+  }
+.project-card {
+    width: 540px;
+    height: 300px;
+    border: 1px solid black;
+    display: inline-flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    box-shadow: 5px 5px 20px hotpink;
+    border-radius: 10px;
+  }
+  button {
+    color: black;
+    background-color: hotpink;
+    width: 100px;
+    height: 50px;
+    border-radius: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  }
